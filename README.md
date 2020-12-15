@@ -8,15 +8,17 @@ pandas exercise
   clone the repo that you fork
 
 # Open Jupyter notebook
-
+  first of all you must install jupyter notebook
   in windows:
+  
   ```pip install jupyterlab```
 
   in Linux:
+  
   ```pip3 install jupyterlab```
 
-  after that you can accessing with
-
+  and then open jupyter notebook with
+  
   ```jupyter-notebook```
 
-note: di "Exercise_10" ada kesalahan push, jadi silahkan restart dan clear output setelah itu hapus jawabannya sendiri
+note: there are mistake in "Exercise_10", so you can restart and clear output then clear all the answer
